@@ -1,0 +1,15 @@
+com\qa\persistence\domian\ClassManagement.class
+com\qa\business\service\GenericService.class
+com\qa\rest\TrainerEndpoint.class
+com\qa\persistence\repository\TrainerDBRepo.class
+com\qa\persistence\repository\ClassManageDBReop.class
+com\qa\rest\ClassManagemntEndpoint.class
+com\qa\rest\TraineeEndpoint.class
+com\qa\persistence\domian\TrainerManagement.class
+com\qa\business\service\TraineeServiceImpl.class
+com\qa\persistence\repository\GenericRepo.class
+com\qa\business\service\TrainerServiceImpl.class
+com\qa\persistence\domian\TraineeManagement.class
+com\qa\util\JSONUtil.class
+com\qa\persistence\repository\TraineeDBRepo.class
+com\qa\rest\JAXActivator.class
